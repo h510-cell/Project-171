@@ -1,0 +1,363 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1948,
+      "max": [
+        0.95283502340316772,
+        0.40287500619888306,
+        2.0992200374603271
+      ],
+      "min": [
+        -0.95331597328186035,
+        -0.28741800785064697,
+        0.00020900000527035445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 23376,
+      "componentType": 5126,
+      "count": 1948,
+      "max": [
+        0.99995732307434082,
+        0.99999260902404785,
+        0.99869060516357422
+      ],
+      "min": [
+        -0.99970835447311401,
+        -1,
+        -0.9998927116394043
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1948,
+      "max": [
+        1,
+        0.99986982345581055,
+        0.99995559453964233,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99874544143676758,
+        -0.99462205171585083,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1948,
+      "max": [
+        0.99320000410079956,
+        1.0009000301361084
+      ],
+      "min": [
+        0.0015999999595806003,
+        0.00050000002374872565
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4203,
+      "max": [
+        1947
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46752,
+      "componentType": 5126,
+      "count": 365,
+      "max": [
+        0.16535499691963196,
+        0.098068997263908386,
+        1.9142110347747803
+      ],
+      "min": [
+        -0.16583700478076935,
+        -0.17534199357032776,
+        1.4697510004043579
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 51132,
+      "componentType": 5126,
+      "count": 365,
+      "max": [
+        0.99757421016693115,
+        0.96395701169967651,
+        0.97589218616485596
+      ],
+      "min": [
+        -0.99757421016693115,
+        -0.99994492530822754,
+        -0.93841820955276489
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 31168,
+      "componentType": 5126,
+      "count": 365,
+      "max": [
+        1,
+        0.94908958673477173,
+        0.8472173810005188,
+        1
+      ],
+      "min": [
+        -0.99980837106704712,
+        -0.94901281595230103,
+        -0.84737449884414673,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15584,
+      "componentType": 5126,
+      "count": 365,
+      "max": [
+        0.97920000553131104,
+        -0.0093999998643994331
+      ],
+      "min": [
+        0.029200000688433647,
+        -0.9944000244140625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16812,
+      "componentType": 5125,
+      "count": 1230,
+      "max": [
+        364
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tobytinker (https://sketchfab.com/tobytinker)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wii-toy-story-3-woody-8fb9c5865d4742dba069308b8845d79c",
+      "title": "Wii - Toy Story 3 - Woody"
+    },
+    "generator": "Sketchfab-4.48.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 21732,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18504,
+      "byteOffset": 21732,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55512,
+      "byteOffset": 40236,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37008,
+      "byteOffset": 95748,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 132756,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Woody.001_baseColor.png"
+    },
+    {
+      "uri": "textures/Woody_face.001_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Woody.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Woody_face.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Woody.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
